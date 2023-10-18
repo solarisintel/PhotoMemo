@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">どこフォト</string>
+    <string name="description">pictures</string>
+    <string name="menu_turn">turn</string>
+    <string name="photo_name">file</string>
+    <string name="photo_size">size</string>
+    <string name="photo_date">date</string>
+    <string name="photo_lat">lat</string>
+    <string name="photo_lon">lon</string>
+    <string name="photo_where">正確な場所</string>
+    <string name="menu_sort_az">Sort ascend</string>
+    <string name="menu_sort_za">Sort descend</string>
+    <string name="menu_map">地図(マピオン）に切り替え</string>
+    <string name="menu_photo">写真に切り替え</string>
+    <string name="menu_edit">メモする</string>
+    <string name="menu_zoom_in">ZoomIn</string>
+    <string name="menu_zoom_out">ZoomOut</string>
+    <string name="loadingActionBar">logding</string>
+    <string name="menu_goto_first">リストの先頭へ</string>
+    <string name="menu_goto_last">リストの最後へ</string>
+    <string name="menu_next_memo">次のメモ</string>
+    <string name="menu_info_show">info show</string>
+    <string name="menu_info_hide">info hide</string>
+</resources>

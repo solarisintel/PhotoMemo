@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">DocoPhoto</string>
+    <string name="description">pictures</string>
+    <string name="menu_turn">turn</string>
+    <string name="photo_name">file</string>
+    <string name="photo_size">size</string>
+    <string name="photo_date">date</string>
+    <string name="photo_lat">lat</string>
+    <string name="photo_lon">lon</string>
+    <string name="photo_where">exact location</string>
+    <string name="menu_sort_az">Sort ascend</string>
+    <string name="menu_sort_za">Sort descend</string>
+    <string name="menu_map">change map(mapion)</string>
+    <string name="menu_photo">change photo</string>
+    <string name="menu_edit">add Memo</string>
+    <string name="menu_zoom_in">ZoomIn</string>
+    <string name="menu_zoom_out">ZoomOut</string>
+    <string name="loadingActionBar">logding</string>
+    <string name="menu_goto_first">goto first</string>
+    <string name="menu_goto_last">goto last</string>
+    <string name="menu_next_memo">next memo row</string>
+    <string name="menu_info_show">info show</string>
+    <string name="menu_info_hide">info hide</string>
+
+</resources>

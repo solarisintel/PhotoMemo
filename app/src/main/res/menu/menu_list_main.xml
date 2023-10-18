@@ -1,0 +1,60 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity" >
+
+    <item
+        android:id="@+id/menu_list_sort_asc"
+        android:enabled="true"
+        android:icon="@drawable/sort_ascent"
+        android:orderInCategory="1"
+        android:title="@string/menu_sort_asc"
+        android:visible="true"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/menu_list_sort_desc"
+        android:enabled="true"
+        android:icon="@drawable/sort_descent"
+        android:orderInCategory="1"
+        android:title="@string/menu_sort_desc"
+        android:visible="true"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/menu_list_next_memo"
+        android:enabled="true"
+        android:icon="@android:drawable/ic_menu_call"
+        android:orderInCategory="2"
+        android:title="@string/menu_next_memo"
+        android:visible="true"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_list_goto_first"
+        android:enabled="true"
+        android:icon="@android:drawable/ic_menu_call"
+        android:orderInCategory="2"
+        android:title="@string/menu_goto_first"
+        android:visible="true"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menu_list_goto_last"
+        android:enabled="true"
+        android:icon="@android:drawable/ic_menu_call"
+        android:orderInCategory="2"
+        android:title="@string/menu_goto_last"
+        android:visible="true"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menu_change_grid"
+        android:enabled="true"
+        android:icon="@android:drawable/ic_menu_call"
+        android:orderInCategory="2"
+        android:title="@string/menu_change_grid"
+        android:visible="true"
+        app:showAsAction="never" />
+
+
+</menu>
